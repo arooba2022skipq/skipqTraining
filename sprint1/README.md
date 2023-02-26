@@ -13,8 +13,6 @@ Before you begin, you'll need to have the following:
 - The AWS CLI installed on your local machine
 
 ## Steps
-## Steps
-## Steps
 ## 1. Install the AWS CDK and TypeScript globally
 Run the following command in your terminal:
 
